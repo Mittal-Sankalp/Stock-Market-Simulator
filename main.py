@@ -20,7 +20,7 @@ try:
         with open("user.json", "w") as file:
             json.dump(userData, file)
 
-    print("\n\t\tWelcome to the Investment In Stocks Game\n")
+    print("\n\t\tWelcome to MarketQuest\n")
     print("Please Enter Your Details.")
     username = input("Please enter your Username: ")
     password = input("Please enter your Password: ")
