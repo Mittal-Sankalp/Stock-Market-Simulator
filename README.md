@@ -162,18 +162,12 @@ The game uses:
 2. **For Code Execution Features**
    - Python interpreter
    - Node.js for JavaScript
-   - JDK for Java
-   - G++ compiler for C++
-   - GCC compiler for C
-   - Ruby interpreter
-   - PHP interpreter
-   - Perl interpreter
    - Bash shell
    - PowerShell
 
 ## 🔧 File Structure
 
-- `gameTerminal.py` - Main application file containing all logic
+- `main.py` - Main application file containing all logic
 - `user.json` - User data storage file
 - `README.md` - Documentation and guide (this file)
 - Created files - Stored in user-specified locations
@@ -190,11 +184,3 @@ The game uses:
    - Implement more complex stock behavior
    - Add market trends and sectors
    - Create a graphical interface
-
-## 🤝 Contributing
-
-This is an educational project, and suggestions for improvements are welcome! Some areas that could be enhanced:
-- More realistic stock market simulation
-- Additional commands and features
-- Better error handling
-- User interface improvements
